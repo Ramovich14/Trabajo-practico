@@ -27,4 +27,5 @@ Escribir en la consoda de Visual studio los siguientes comandos:
 
 
 ## Estructura del programa:
-![image](https://github.com/Ramovich14/Trabajo-practico/assets/143752245/8aa0ed33-6826-497b-9f6d-a8cc639297f0)
+![image](https://github.com/Ramovich14/Trabajo-practico/assets/143752245/53553969-0477-410d-96cb-db42b9a2d332)
+
