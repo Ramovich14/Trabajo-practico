@@ -29,3 +29,8 @@ Escribir en la consoda de Visual studio los siguientes comandos:
 ## Estructura del programa:
 ![image](https://github.com/Ramovich14/Trabajo-practico/assets/143752245/53553969-0477-410d-96cb-db42b9a2d332)
 
+## Ejemplo de json:
+- Carrera:    
+![image](https://github.com/Ramovich14/Trabajo-practico/assets/143752245/ff37b6b7-49f0-4ee5-8b26-7c036ebe5f1a)
+- Materia:    
+![image](https://github.com/Ramovich14/Trabajo-practico/assets/143752245/6af50486-3760-4064-9540-a0f6274c92a2)
