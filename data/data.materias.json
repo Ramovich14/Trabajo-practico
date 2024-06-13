@@ -1,0 +1,59 @@
+[
+    {
+        "id" : 1,
+        "nombre": "Programacion",
+        "cuatrimestral": 1,
+        "anio": 1,
+        "carreraId": 1
+
+    },
+    {
+        "id" : 2,
+        "nombre": "Base de Datos",
+        "cuatrimestral": 2,
+        "anio": 2,
+        "carreraId":1
+    },
+    {
+        "id" : 3,
+        "nombre": "Pedagogia",
+        "cuatrimestral": 1,
+        "anio": 1,
+        "carreraId":2
+    },
+    {
+        "id" : 4,
+        "nombre": "Fútbol",
+        "cuatrimestra": 2,
+        "anio": 3,
+        "carreraId":2
+    },
+    {
+        "id": 5,
+        "nombre":"Salud ambiental",
+        "cuatrimestral": 1,
+        "anio": 1,
+        "carreraId": 2
+    },
+    {
+        "id": 6,
+        "nombre":"Salud reproductiva",
+        "cuatrimestral": 1,
+        "anio": 2,
+        "carreraId": 2
+    },
+    {
+        "id": 7,
+        "nombre":"Tecnología y Sociedad",
+        "cuatrimestral": 1,
+        "anio": 1,
+        "carreraId": 3
+    },
+    {
+        "id": 8,
+        "nombre":"Gestión del conocimiento",
+        "cuatrimestral": 1,
+        "anio": 2,
+        "carreraId": 3
+    }
+]

@@ -1,0 +1,27 @@
+[
+        {
+            "id": 1,
+            "nombre": "Licenciatura en Gestión de las Tecnologías de Información",
+            "grado":"Licenciatura",
+            "universidad": "Unpaz"
+        },
+        {
+            "id": 2,
+            "nombre": "Profesorado de educacion fisica",
+            "grado" : "Profesorado",
+            "universidad": "Unpaz"
+        },
+        {
+            "id": 3,
+            "nombre": "Medicina",
+            "grado": "Medico",
+            "universidad": "Unpaz"
+        },
+        {
+            "id": 4,
+            "nombre": "Tecnicatura universitaria en tecnologias industriales",
+            "grado": "Tecnicatura",
+            "universidad":"Unpaz"
+        }
+    
+]
